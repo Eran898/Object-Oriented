@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>kml</name>
+        <open>1</open>
+        <Style id="style_17">
+            <IconStyle>
+                <scale>0.8</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>5000FF00</color>
+                <scale>1.0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="style_2696">
+            <IconStyle>
+                <scale>0.8</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>5000FF00</color>
+                <scale>1.0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="style_1047">
+            <IconStyle>
+                <scale>0.8</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>5000FF00</color>
+                <scale>1.0</scale>
+            </LabelStyle>
+        </Style>
+        <Folder>
+            <name>Continents with Earth's surface</name>
+            <open>1</open>
+            <Placemark>
+                <name>Go_Away</name>
+                <description>Time: &lt;b&gt;Go_Away&lt;/b&gt;&lt;br/&gt;DEVICE: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;SSID: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;MAC: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;Number of WIFIs: &lt;b&gt;17&lt;/b&gt;&lt;br/&gt;SSID1: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC1: &lt;b&gt;42501_7213_5475843&lt;/b&gt;&lt;br/&gt;Frequency1: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal1: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID2: &lt;b&gt;ADIEL5&lt;/b&gt;&lt;br/&gt;MAC2: &lt;b&gt;20:0c:c8:0f:26:7a&lt;/b&gt;&lt;br/&gt;Frequency2: &lt;b&gt;60&lt;/b&gt;&lt;br/&gt;Signal2: &lt;b&gt;-90&lt;/b&gt;&lt;br/&gt;SSID3: &lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC3: &lt;b&gt;62:45:b0:f4:c9:8d&lt;/b&gt;&lt;br/&gt;Frequency3: &lt;b&gt;40&lt;/b&gt;&lt;br/&gt;Signal3: &lt;b&gt;-89&lt;/b&gt;&lt;br/&gt;SSID4: &lt;b&gt;Shani_5&lt;/b&gt;&lt;br/&gt;MAC4: &lt;b&gt;14:ae:db:cd:0d:ed&lt;/b&gt;&lt;br/&gt;Frequency4: &lt;b&gt;48&lt;/b&gt;&lt;br/&gt;Signal4: &lt;b&gt;-88&lt;/b&gt;&lt;br/&gt;SSID5: &lt;b&gt;Bezeq Free&lt;/b&gt;&lt;br/&gt;MAC5: &lt;b&gt;62:0c:c8:11:13:0d&lt;/b&gt;&lt;br/&gt;Frequency5: &lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal5: &lt;b&gt;-84&lt;/b&gt;&lt;br/&gt;SSID6: &lt;b&gt;markovich_2.4&lt;/b&gt;&lt;br/&gt;MAC6: &lt;b&gt;20:0c:c8:11:13:0c&lt;/b&gt;&lt;br/&gt;Frequency6: &lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal6: &lt;b&gt;-83&lt;/b&gt;&lt;br/&gt;SSID7: &lt;b&gt;HOTBOX-E6F4&lt;/b&gt;&lt;br/&gt;MAC7: &lt;b&gt;a0:8e:78:80:fd:e8&lt;/b&gt;&lt;br/&gt;Frequency7: &lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal7: &lt;b&gt;-81&lt;/b&gt;&lt;br/&gt;SSID8: &lt;b&gt;AndroidAP&lt;/b&gt;&lt;br/&gt;MAC8: &lt;b&gt;c0:bd:d1:fe:c8:1e&lt;/b&gt;&lt;br/&gt;Frequency8: &lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal8: &lt;b&gt;-81&lt;/b&gt;&lt;br/&gt;SSID9: &lt;b&gt;azria&lt;/b&gt;&lt;br/&gt;MAC9: &lt;b&gt;e8:74:e6:ff:a2:11&lt;/b&gt;&lt;br/&gt;Frequency9: &lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal9: &lt;b&gt;-81&lt;/b&gt;&lt;br/&gt;SSID10: &lt;b&gt;ADIEL&lt;/b&gt;&lt;br/&gt;MAC10: &lt;b&gt;20:0c:c8:0f:26:79&lt;/b&gt;&lt;br/&gt;Frequency10: &lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal10: &lt;b&gt;-80</description>
+                <LookAt>
+                    <longitude>35.17937682</longitude>
+                    <latitude>32.10456206</latitude>
+                    <altitude>570.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                </LookAt>
+                <styleUrl>#style_Go_Away</styleUrl>
+                <Point>
+                    <coordinates>35.17937682,32.10456206</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Ariel_University</name>
+                <description>Time: &lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;DEVICE: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;SSID: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;MAC: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;Number of WIFIs: &lt;b&gt;2696&lt;/b&gt;&lt;br/&gt;SSID1: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC1: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency1: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal1: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID2: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC2: &lt;b&gt;42501_7211_3084804&lt;/b&gt;&lt;br/&gt;Frequency2: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal2: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID3: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC3: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency3: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal3: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID4: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC4: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency4: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal4: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID5: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC5: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency5: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal5: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID6: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC6: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency6: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal6: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID7: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC7: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency7: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal7: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID8: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC8: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency8: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal8: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID9: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC9: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency9: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal9: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID10: &lt;b&gt;012 Mobile&lt;/b&gt;&lt;br/&gt;MAC10: &lt;b&gt;42501_7211_3084801&lt;/b&gt;&lt;br/&gt;Frequency10: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal10: &lt;b&gt;-113</description>
+                <LookAt>
+                    <longitude>35.20963138</longitude>
+                    <latitude>32.10483761</latitude>
+                    <altitude>684.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                </LookAt>
+                <styleUrl>#style_Ariel_University</styleUrl>
+                <Point>
+                    <coordinates>35.20963138,32.10483761</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Ariel_University</name>
+                <description>Time: &lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;DEVICE: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;SSID: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;MAC: &lt;b&gt;NONE&lt;/b&gt;&lt;br/&gt;Number of WIFIs: &lt;b&gt;1047&lt;/b&gt;&lt;br/&gt;SSID1: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC1: &lt;b&gt;42501_7211_3084804&lt;/b&gt;&lt;br/&gt;Frequency1: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal1: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID2: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC2: &lt;b&gt;42501_7213_5396482&lt;/b&gt;&lt;br/&gt;Frequency2: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal2: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID3: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC3: &lt;b&gt;42501_7213_5396482&lt;/b&gt;&lt;br/&gt;Frequency3: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal3: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID4: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC4: &lt;b&gt;42501_7213_5396482&lt;/b&gt;&lt;br/&gt;Frequency4: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal4: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID5: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC5: &lt;b&gt;42501_7211_3084804&lt;/b&gt;&lt;br/&gt;Frequency5: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal5: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID6: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC6: &lt;b&gt;42501_7211_3084804&lt;/b&gt;&lt;br/&gt;Frequency6: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal6: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID7: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC7: &lt;b&gt;42501_7211_3084804&lt;/b&gt;&lt;br/&gt;Frequency7: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal7: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID8: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC8: &lt;b&gt;42501_7213_5475842&lt;/b&gt;&lt;br/&gt;Frequency8: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal8: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID9: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC9: &lt;b&gt;42501_7211_3084804&lt;/b&gt;&lt;br/&gt;Frequency9: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal9: &lt;b&gt;-113&lt;/b&gt;&lt;br/&gt;SSID10: &lt;b&gt;Partner&lt;/b&gt;&lt;br/&gt;MAC10: &lt;b&gt;42501_7213_5475842&lt;/b&gt;&lt;br/&gt;Frequency10: &lt;b&gt;0&lt;/b&gt;&lt;br/&gt;Signal10: &lt;b&gt;-113</description>
+                <LookAt>
+                    <longitude>35.20889173</longitude>
+                    <latitude>32.10316838</latitude>
+                    <altitude>686.239013671875</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                </LookAt>
+                <styleUrl>#style_Ariel_University</styleUrl>
+                <Point>
+                    <coordinates>35.20889173,32.10316838</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
